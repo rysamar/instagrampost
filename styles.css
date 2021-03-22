@@ -1,0 +1,40 @@
+.post {
+    background-color: black;
+    width: 700px;
+    height: 700px;
+    padding: 50px;
+}
+.header {
+    background-color: white;
+    width: 400px;
+    height: 600px;
+
+}
+.img1 {
+    float: left;
+}
+.img2 {
+    float: right;
+    margin-top: -50px;
+}
+.word {
+    padding-top: 6px;
+    font-size: small;
+    font-weight: bold;
+}
+.word1 {
+    font-size: small;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin-top: -10px;
+
+}
+.save {
+    float: right;
+    padding-right: 10px;
+}
+.footer {
+    font-size: small;
+}
+.icons {
+    padding-left: 15px;
+}
